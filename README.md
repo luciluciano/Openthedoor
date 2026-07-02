@@ -2,10 +2,6 @@
 
 A single-file, interactive learning platform for **Nmap** — the network mapper. Built as a searchable field manual you can open in any browser, no build step, no dependencies, no backend.
 
-## ✨ Live Preview
-
-Just open [`nmap-field-manual.html`](./nmap-field-manual.html) in any modern browser — that's the whole app.
-
 ## 📚 What's Inside
 
 | Section | Description |
